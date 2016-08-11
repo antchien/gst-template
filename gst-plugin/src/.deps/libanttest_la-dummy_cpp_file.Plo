@@ -1,0 +1,4 @@
+libanttest_la-dummy_cpp_file.lo: dummy_cpp_file.cc \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
